@@ -8,6 +8,8 @@
   padding: 10px 0px 10px 0px;
   position: relative;
   top: -40px;
+
+  box-shadow: inset 0 0 10px 0 rgba(0, 0, 0, 0.2);
 }
 
 @media (max-width: 992px) {
@@ -17,11 +19,11 @@
 }
 
 .section-title-green {
-  background-color: red;
+  background: #99cc33;
   width: 100%;
 }
 
 .section-title-blue {
-  background-color: purple;
+  background: #00a8b1;
   width: 100%;
 }
