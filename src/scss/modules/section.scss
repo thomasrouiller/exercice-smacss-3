@@ -1,0 +1,27 @@
+.section-title {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Raleway-Medium;
+  font-size: 16px;
+  color: var(--accent-color);
+  letter-spacing: 0;
+  padding: 10px 0px 10px 0px;
+  position: relative;
+  top: -40px;
+}
+
+@media (max-width: 992px) {
+  .section-title {
+    top: 0px;
+  }
+}
+
+.section-title-green {
+  background-color: red;
+  width: 100%;
+}
+
+.section-title-blue {
+  background-color: purple;
+  width: 100%;
+}
