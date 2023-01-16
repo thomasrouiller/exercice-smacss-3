@@ -6,3 +6,22 @@
   width: 100%;
   min-height: 397px;
 }
+
+.l-separation {
+  background-color: var(--separation);
+  width: 100%;
+  height: 10px;
+}
+
+.l-separation-wide {
+  height: 40px;
+}
+
+.l-main-pattern {
+  background-image: url(../img/pattern.webp);
+  background-repeat: repeat;
+}
+
+.l-footer {
+  background-color: var(--white);
+}
